@@ -1,9 +1,11 @@
 # Evaluation-and-real-time-application-of-intelligent-image-classification-system
 Project background:
+
 This project aims to evaluate the performance of different classification algorithms on image classification tasks. In order to enhance the practical application value, the project also realizes the real-time camera image classification function.
 Enables the system to process and classify images captured by the camera in real time.
 
-Job Description:
+Our Job:
+
 · Use K-nearest neighbor (KNN), Random forest (RF), Naive Bayes (NB) and convolutional neural network (VGG) to count CIFAR-10
 Perform training and testing on the data set
 
