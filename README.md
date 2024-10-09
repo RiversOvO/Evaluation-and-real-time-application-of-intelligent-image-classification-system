@@ -15,3 +15,5 @@ Perform training and testing on the data set
 
 · Realized the real-time camera image classification function, used OpenCV for camera capture, and classified and displayed real-time images through the trained VGG model
 It improves the practicability and interactivity of the application
+
+![image](https://github.com/user-attachments/assets/9baf1235-0824-4031-98dd-7d5d92720ce5)
